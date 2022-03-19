@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I'm interested in Algorithms, NLP and Computer Vision (I'm legally and morally obliged to write this)
 - 🌱 I’m currently learning Node and React with TypeScript
 - 😭 I want to learn Rust 😭
-- 😄 Other programming languages that I know and I've used as a studen are C/C++ 😎, Java 😬 and Haskell 👀
+- 😄 Other programming languages that I've used as a student are C/C++ 😎, Java 😬 and Haskell 👀
 - ⚡ Fun fact
 
 -->

@@ -4,7 +4,6 @@
 
 This repo contains a lot of the work I've done for uni, mostly scientific computing related proyects using Juypter Notebooks and python libraries like numpy, pandas and scipy.
 
-
 **hiawvp/hiawvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 🤔 I'm interested in Algorithms, NLP and Computer Vision (I'm legally and morally obliged to write this)
 - 🌱 I’m currently learning Node and React with TypeScript
+- 😳 I'm also getting started with Flutter
 - 😭 I want to learn Rust 😭
 - 😄 Other programming languages that I've used as a student are C/C++ 😎, Java 😬 and Haskell 👀
 - ⚡ Fun fact
-
--->

@@ -8,7 +8,7 @@ This repo contains a lot of the work I've done for uni, mostly scientific comput
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 - 🤔 I'm interested in Algorithms, NLP and Computer Vision (I'm legally and morally obliged to write this)
-- 🌱 I’m currently learning Node and React with TypeScript
+- 🌱 I’m currently learning Go, Node and React with TypeScript
 - 😳 I'm also getting started with Flutter
 - 😭 I want to learn Rust 😭
 - 😄 Other programming languages that I've used as a student are C/C++ 😎, Java 😬 and Haskell 👀
